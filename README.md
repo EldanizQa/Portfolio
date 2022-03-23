@@ -1,4 +1,6 @@
 # Portfolio
 Qa Projects
-Eldanizcik - is project wit automation
+Eldanizcik - is project with automation
+
+
 Calcu - NUnit tests
